@@ -1,0 +1,2 @@
+from ADF import *
+reg()
